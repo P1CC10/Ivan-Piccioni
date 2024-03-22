@@ -6,7 +6,7 @@
   
  <h4 align="center">A Passionate Java Back-end Developer frome Rome</h4>
  
- <h3 align="center">welcome adventurer take a moment to rest</h3>
+ <h3 align="center">WELCOME ADVENTURER TAKE A MOMENT TO REST</h3>
 
 
 
