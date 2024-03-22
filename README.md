@@ -7,7 +7,7 @@
  <br>   
  <h1 align="center">Hi 👋, I'm Ivan Piccioni</h1>
   
- <h3 align="">A Passionate Java Back-end Developer frome Rome</h3>
+ <h2 align="center">A Passionate Java Back-end Developer frome Rome</h2>
  <br>
  <h2>Abount me</h2>
   
