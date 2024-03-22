@@ -3,7 +3,7 @@
 <h1 style="font-size: 24px align=center space-between";">Welcome adventurer, take a moment to rest</h1>
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px align="right">
 
-<br>
+<br><br><br>
 <h2> About Me
 <h1 align="center">Hi 👋, I'm Ivan Piccioni</h1>
 <h3 align="center">A Passionate Java Back-end Developer frome Rome</h3>
