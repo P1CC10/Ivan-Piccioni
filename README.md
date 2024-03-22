@@ -15,4 +15,4 @@
 <br>
 <img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="50" align="right"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="100" align="right"/>
