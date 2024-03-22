@@ -4,7 +4,7 @@
 <h1 align="center">welcome adventurer</h1>
 
  
- <br> 
+ <hr> 
 <h1 align="center">Hi 👋, I'm Ivan Piccioni</h1>
   
 <h3 align="center">A Passionate Java Back-end Developer frome Rome</h3>
