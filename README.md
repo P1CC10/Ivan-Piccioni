@@ -14,7 +14,6 @@
 
 - 💻 &nbsp; Maven | SpringWeb | Java | Jpa  
 - 🌐 &nbsp; MySql | GitFlow | RestAPI| JavaScript 
--
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
