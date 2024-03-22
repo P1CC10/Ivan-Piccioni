@@ -15,7 +15,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks..
 - 🌱 &nbsp; Enthusiast in web development  and Artificial Intelligence .
 - ✍️ &nbsp;  My Hobby :Watching Anime,play videogames and camping.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 
 <h3>🛠 Tech Stack</h3>
