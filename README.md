@@ -1,10 +1,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="150" align="left"/> 
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px align="right">
-<h1 align="center">welcome adventurer take a moment to rest</h1>
 
- <br>  
- <br>   
  <h1 align="center">Hi 👋, I'm Ivan Piccioni</h1>
   
  <h2 align="center">A Passionate Java Back-end Developer frome Rome</h2>
