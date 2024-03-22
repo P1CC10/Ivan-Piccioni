@@ -2,8 +2,11 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="150" align="left"/> 
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px align="right">
 <h2> About Me
+  
 <h1 align="center">Hi 👋, I'm Ivan Piccioni</h1>
+  
 <h3 align="center">A Passionate Java Back-end Developer frome Rome</h3>
+  
 - 🔭 &nbsp; I’m currently learning Java back-end Application in Develhope accademy
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks..
 - 🌱 &nbsp; Enthusiast in web development  and Artificial Intelligence .
