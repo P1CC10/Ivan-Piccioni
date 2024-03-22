@@ -3,7 +3,6 @@
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px align="right">
 <h1 align="center">welcome adventurer,take a rest</h1>
 
- 
  <br>  
  <br>   
  <h1 align="center">Hi 👋, I'm Ivan Piccioni</h1>
