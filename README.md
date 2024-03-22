@@ -1,6 +1,9 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="150" align="center"/> 
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px align="right">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png" alt="Github Banner" width="200">
+    <h1 style="font-size: 24px;">Welcome adventurer, take a moment to rest</h1>
+    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" alt="Bonefire" width="150">
+    <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" alt="Giphy" width="200">
+</div>
 
 <h2> About Me
 <h1 align="center">Hi 👋, I'm Ivan Piccioni</h1>
