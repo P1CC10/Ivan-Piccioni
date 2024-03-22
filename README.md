@@ -16,4 +16,9 @@
 <img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p1cc10&show_icons=true&locale=en&layout=compact" alt="p1cc10" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p1cc10&show_icons=true&locale=en" alt="p1cc10" /></p>
+
+
 
