@@ -1,9 +1,19 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-<br>  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="150" align="center"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="150" align="center"/>
 <h1 align="center">Hi 👋, I'm Ivan Piccioni</h1>
 <h3 align="center">A Passionate Java Back-end Developer frome Rome</h3>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px align="right"></h2>
-- 🌱 I’m currently learning **Java,Spring,Sql**
+- 🔭 &nbsp; I’m currently learning Java back-end Application in Develhope accademy
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks..
+- 🌱 &nbsp; Enthusiast in web development  and Artificial Intelligence .
+- ✍️ &nbsp;  My Hobby :Watching Anime,play videogames and camping.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Maven | SpringWeb | Java | Jpa  
+- 🌐 &nbsp; MySql | GitFlow | RestAPI| JavaScript 
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
